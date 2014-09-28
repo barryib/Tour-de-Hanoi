@@ -1,0 +1,26 @@
+REMARQUE: Ce jeux n'est pas cormercial, mais strictement
+	  d'ordre éducatif.
+
+LISTE DES ERREURS:
+	
+	 ERREUR 1: Il se peut que la tour d'arrivée soit pleine
+		   ou le disque à empiler soit plus grand que celui
+		   qui se trouve déjà dans la tour d'arrivée.
+
+	 ERREUR 2: Il se peut que la tour de départ soit vide.
+
+	 ERREUR 3: Il se peut que la tour d'arrivée que vous avez
+		   choisit n'existe pas.
+
+	 ERREUR 4: Il se peut que la tour de départ que vous avez 
+		   choisit n'existe pas.
+
+COMMENT JOUER:
+
+	 1. Choisissez une tour de départ entre 1 et 3;
+	 2. choisissez une tour d'arrivée entre 1 et 3;
+	 N.B: Il faut que le disque à déplacer soit aubligatoirement
+	      plus petit que celui qui se trouve dans la 
+	      tour d'arrivée.
+	 Vous gagnez seulement si la tour 1 est reconstruite à la
+	 tour 3 (Tour 1 et 2 sont vide).	 
